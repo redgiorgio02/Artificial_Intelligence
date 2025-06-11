@@ -1,0 +1,512 @@
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe depth p_1.txt sol_1_d.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.001000 secs
+Number of steps: 14
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_1.txt sol_h1_t1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.013000 secs
+Number of restarts: 18
+Number of steps: 47
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_1.txt sol_h1_t2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.012000 secs
+Number of restarts: 18
+Number of steps: 47
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_1.txt sol_h1_t3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.012000 secs
+Number of restarts: 18
+Number of steps: 47
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_1.txt sol_h1_t4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.012000 secs
+Number of restarts: 18
+Number of steps: 47
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_1.txt sol_h1_t5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=false  
+Time spent: 0.012000 secs
+Number of restarts: 18
+Number of steps: 47
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe depth p_2.txt sol_2_d.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of steps: 20
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_2.txt sol_h2_t1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.005000 secs
+Number of restarts: 7
+Number of steps: 22
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_2.txt sol_h2_t2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.006000 secs
+Number of restarts: 7
+Number of steps: 22
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_2.txt sol_h2_t3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.005000 secs
+Number of restarts: 7
+Number of steps: 22
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_2.txt sol_h2_t4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.006000 secs
+Number of restarts: 7
+Number of steps: 22
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_2.txt sol_h2_t5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.006000 secs
+Number of restarts: 7
+Number of steps: 22
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe depth p_3.txt sol_3_d.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.002000 secs
+Number of steps: 119
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_3.txt sol_h3_t1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.006000 secs
+Number of restarts: 9
+Number of steps: 25
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_3.txt sol_h3_t2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.006000 secs
+Number of restarts: 9
+Number of steps: 25
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_3.txt sol_h3_t3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.005000 secs
+Number of restarts: 9
+Number of steps: 25
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_3.txt sol_h3_t4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.005000 secs
+Number of restarts: 9
+Number of steps: 25
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_3.txt sol_h3_t5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=false  P9=true  P10=false  
+Time spent: 0.006000 secs
+Number of restarts: 9
+Number of steps: 25
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe depth p_4.txt sol_4_d.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 26
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_4.txt sol_h4_t1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.003000 secs
+Number of restarts: 4
+Number of steps: 15
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_4.txt sol_h4_t2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.003000 secs
+Number of restarts: 4
+Number of steps: 15
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_4.txt sol_h4_t3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.004000 secs
+Number of restarts: 4
+Number of steps: 15
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_4.txt sol_h4_t4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.004000 secs
+Number of restarts: 4
+Number of steps: 15
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_4.txt sol_h4_t5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=true  P4=true  P5=false  P6=false  P7=false  P8=false  P9=true  P10=true  
+Time spent: 0.004000 secs
+Number of restarts: 4
+Number of steps: 15
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe depth p_5.txt sol_5_d.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.008000 secs
+Number of steps: 390
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_5.txt sol_h5_t1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 101425
+Number of steps: 263796
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_5.txt sol_h5_t2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 101653
+Number of steps: 264339
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_5.txt sol_h5_t3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 97969
+Number of steps: 253985
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_5.txt sol_h5_t4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 61771
+Number of steps: 160620
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_5.txt sol_h5_t5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 61956
+Number of steps: 161005
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe depth p_6.txt sol_6_d.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.008000 secs
+Number of steps: 391
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_6.txt sol_h6_t1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 62440
+Number of steps: 160742
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_6.txt sol_h6_t2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 62737
+Number of steps: 161528
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_6.txt sol_h6_t3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 72254
+Number of steps: 186462
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_6.txt sol_h6_t4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 62621
+Number of steps: 161317
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_6.txt sol_h6_t5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 102782
+Number of steps: 265541
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe depth p_7.txt sol_7_d.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.006000 secs
+Number of steps: 307
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_7.txt sol_h7_t1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_7.txt sol_h7_t2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.011000 secs
+Number of restarts: 21
+Number of steps: 52
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_7.txt sol_h7_t3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.011000 secs
+Number of restarts: 21
+Number of steps: 52
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_7.txt sol_h7_t4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.011000 secs
+Number of restarts: 21
+Number of steps: 52
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_7.txt sol_h7_t5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=true  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  
+Time spent: 0.012000 secs
+Number of restarts: 21
+Number of steps: 52
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe depth p_8.txt sol_8_d.txt 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.007000 secs
+Number of steps: 343
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_8.txt sol_h8_t1.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 85047
+Number of steps: 220897
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_8.txt sol_h8_t2.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 61804
+Number of steps: 160280
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_8.txt sol_h8_t3.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 61285
+Number of steps: 159283
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_8.txt sol_h8_t4.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 66325
+Number of steps: 172618
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_8.txt sol_h8_t5.txt 
+
+
+NO SOLUTION found with hill-climbing...
+Time spent: 60.000999 secs
+Number of restarts: 63004
+Number of steps: 163936
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe depth p_9.txt sol_9_d.txt 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of steps: 69
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_9.txt sol_h9_t1.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_9.txt sol_h9_t2.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_9.txt sol_h9_t3.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_9.txt sol_h9_t4.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_9.txt sol_h9_t5.txt 
+
+
+Solution found with hill-climbing!
+P1=true  P2=true  P3=false  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe depth p_10.txt sol_10_d.txt 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.008000 secs
+Number of steps: 380
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_10.txt sol_h10_t1.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.019000 secs
+Number of restarts: 30
+Number of steps: 80
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_10.txt sol_h10_t2.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.018000 secs
+Number of restarts: 30
+Number of steps: 80
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_10.txt sol_h10_t3.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.019000 secs
+Number of restarts: 30
+Number of steps: 80
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_10.txt sol_h10_t4.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.017000 secs
+Number of restarts: 30
+Number of steps: 80
+
+C:\Users\redgi\BCSP2023\SourceCode>bcsp.exe hill p_10.txt sol_h10_t5.txt 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=false  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  
+Time spent: 0.018000 secs
+Number of restarts: 30
+Number of steps: 80
